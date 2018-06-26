@@ -1,0 +1,80 @@
+/* Styles for Netflix like page app */
+
+/* .App {
+  text-align: left;
+}
+.Movie-row {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.Movie-row h4 {
+  margin: 0;
+  padding: 0;
+}
+.Show-btn {
+  position: relative;
+}
+.Show-btn img {
+  cursor: pointer;
+}
+.Show-btn button {
+  position: absolute;
+  display: none;
+}
+.Show-btn:hover button {
+  display: block;
+}
+ */
+
+ /* Styles for ChineseMenu App */
+ /*.List-item {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.App-left {
+  float: left;
+  width: 35%;
+}
+.App-right {
+  width: 65%;
+  float: right;
+}*/
+
+/* Styles for CRUD application */
+ .App {
+   margin: 0 auto;
+   width: 50%;
+ }
+ .myForm {
+   width: 100%;
+   background-color: #dfe6e9;
+   border-radius: 5px;
+   padding: 25px;
+ }
+ .inputField {
+   width: 100%;
+   margin: 10px 0;
+   padding: 10px;
+   border: 1px solid #cccccc;
+   border-radius: 5px;
+   box-sizing: border-box;
+ }
+ .submitBtn {
+   width: 25%;
+   cursor: pointer;
+   background-color: cornflowerblue;
+   padding: 10px;
+   border: 0;
+   border-radius: 10px;
+ }
+ .myList {
+   list-style: none;
+ }
+ .myList button {
+   display: inline-block;
+   width: auto;
+   height: auto;
+   margin: 10px;
+ }
