@@ -1,48 +1,5 @@
-/* Styles for Netflix like page app */
+/* css for CRUD application */
 
-/* .App {
-  text-align: left;
-}
-.Movie-row {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-.Movie-row h4 {
-  margin: 0;
-  padding: 0;
-}
-.Show-btn {
-  position: relative;
-}
-.Show-btn img {
-  cursor: pointer;
-}
-.Show-btn button {
-  position: absolute;
-  display: none;
-}
-.Show-btn:hover button {
-  display: block;
-}
- */
-
- /* Styles for ChineseMenu App */
- /*.List-item {
-  cursor: pointer;
-  margin-bottom: 10px;
-}
-.App-left {
-  float: left;
-  width: 35%;
-}
-.App-right {
-  width: 65%;
-  float: right;
-}*/
-
-/* Styles for CRUD application */
  .App {
    margin: 0 auto;
    width: 50%;
